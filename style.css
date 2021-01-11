@@ -1,0 +1,25 @@
+.container{
+
+margin-top: 50px !important;
+height: 500px !important;
+width: 350px !important;
+/* border: 5px solid black !important; */
+border-radius: 4% !important;
+
+
+}
+
+
+.login-pic{
+    height: 70px;
+    width: 70px;
+    margin: 15px;
+    border: 1px;
+    border-radius: 75% !important;
+}
+
+.login-pic-ctr{
+
+    height: 20px;
+    width: 20px;
+}
